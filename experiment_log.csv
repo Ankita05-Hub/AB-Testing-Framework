@@ -1,0 +1,9 @@
+timestamp,num_users,groups,B_conversion,A_conversion,test_type,p_value,result,Z_conversion,Y_conversion,X_conversion
+2025-07-14 12:44:43,100,"A,B",0.3585,0.2128,t-test,0.1112,Not Significant,,,
+2025-07-14 12:44:59,100,"A,B",0.2456,0.6744,t-test,0.0,Significant,,,
+2025-07-14 12:46:15,180,"X,Y,Z,A",,0.8205,ANOVA,0.0,Significant,0.1277,0.4375,0.4565
+2025-07-14 13:03:58,786,"X,Y,Z,A",,0.819,ANOVA,0.0,Significant,0.212,0.5025,0.3122
+2025-07-14 13:04:21,786,"X,Y,Z,A",,0.8073,ANOVA,0.0,Significant,0.1598,0.8844,0.6816
+2025-07-14 13:12:21,100,"A,B",0.3488,0.2456,t-test,0.2646,Not Significant,,,
+2025-07-14 13:12:34,100,"A,B",0.2245,0.7843,t-test,0.0,Significant,,,
+2025-07-14 13:13:08,788,"X,Y,Z,A",,0.6707,ANOVA,0.0,Significant,0.2772,0.7824,0.3793
