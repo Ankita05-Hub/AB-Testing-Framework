@@ -33,3 +33,9 @@ Designed for experimentation, learning, and showcasing how data-driven decisions
 
 ## 📂 Folder Structure
 
+ab-testing-framework/
+├── streamlit_app.py # Main application file
+├── requirements.txt # Dependencies for deployment
+├── experiment_log.csv # Generated experiment history
+└── README.md # Project documentation
+
